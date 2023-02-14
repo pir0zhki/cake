@@ -1,0 +1,19 @@
+.content {
+    padding: 0 30px;
+    text-align: center;
+}
+.color{
+    flex:0 0 32px;
+    align-self:center;
+    margin-left:16px;
+    text-align:center;
+    color:#008b8b;
+}
+.title{
+    color:#2f4f4f;
+    text-align:center;
+}
+/*背景*/
+body {
+    background-color: #fafad2;
+  }
